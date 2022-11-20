@@ -28,7 +28,7 @@ Engenharia de Software
 
   - 1ª Etapa: 25/11/22
 
-    - Documento com o ciclo de vida para o projeto e explicação do porquê [x]
+    - Documento com o ciclo de vida para o projeto e explicação do porquê [X]
     - Slides apresentando a organização, ciclo de vida, processos e os porqueês []
     - Fluxograma do processo []
     - Descrição de cata etapa do processo, de acordo com o MPS []
