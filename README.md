@@ -30,5 +30,5 @@ Engenharia de Software
 
     - Documento com o ciclo de vida para o projeto e explicação do porquê [X]
     - Slides apresentando a organização, ciclo de vida, processos e os porqueês []
-    - Fluxograma do processo []
+    - Fluxograma do processo na notação BPMN []
     - Descrição de cata etapa do processo, de acordo com o MPS []
