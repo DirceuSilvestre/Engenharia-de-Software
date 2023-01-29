@@ -32,3 +32,9 @@ Engenharia de Software
     - Slides apresentando a organização, ciclo de vida, processos e os porquês [X]
     - Fluxograma do processo na notação BPMN [X]
     - Descrição de cada etapa do processo, obedecendo os critérios do MR-MPS [X]
+
+  - 2ª Etapa: 30/01/23
+
+    - Documento de requisitos preenchido [X]
+    - Documento explicitando os requisitos do software [X]
+    - Slides para apresentação, mesmo que não vá apresentar [X]
