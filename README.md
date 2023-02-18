@@ -38,3 +38,9 @@ Engenharia de Software
     - Documento de requisitos preenchido [X]
     - Documento explicitando os requisitos do software [X]
     - Slides para apresentação, mesmo que não vá apresentar [X]
+
+  - 3ª Etapa: 10/02/23
+
+    - Diagrama de Casos de uso [X]
+    - Especificação dos Casos de uso [X]
+    - Slides de apresentação do diagrama e com exemplo de como especificamos [X]
